@@ -20,5 +20,16 @@
       "email": "me@ajitkumar.dev",
       "github": "deadlyjack"
     }
+  },
+  {
+    "id": "acode.plugin.snippets",
+    "name": "Snippets",
+    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-snippets/main/icon.png",
+    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-snippets/main/plugin.json",
+    "author": {
+      "name": "Ajit Kumar",
+      "email": "me@ajitkumar.dev",
+      "github": "deadlyjack"
+    }
   }
 ]
