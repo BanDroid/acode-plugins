@@ -31,5 +31,16 @@
       "email": "me@ajitkumar.dev",
       "github": "deadlyjack"
     }
+  },
+  {
+    "id": "acode.plugin.lint",
+    "name": "Lint (Check errors)",
+    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lint/main/icon.png",
+    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lint/main/plugin.json",
+    "author": {
+      "name": "Ajit Kumar",
+      "email": "me@ajitkumar.dev",
+      "github": "deadlyjack"
+    }
   }
 ]
