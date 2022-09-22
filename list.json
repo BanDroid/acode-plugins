@@ -32,11 +32,23 @@
       "github": "deadlyjack"
     }
   },
+  //https://raw.githubusercontent.com/deadlyjack/acode-plugin-volumn_cursor/main/dist/main.js
   {
     "id": "acode.plugin.lint",
     "name": "Lint (Check errors)",
     "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lint/main/icon.png",
     "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lint/main/plugin.json",
+    "author": {
+      "name": "Ajit Kumar",
+      "email": "me@ajitkumar.dev",
+      "github": "deadlyjack"
+    }
+  },
+  {
+    "id": "acode.plugin.volumncursor",
+    "name": "Volumn cursor",
+    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-volumn_cursor/main/icon.png",
+    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-volumn_cursor/main/plugin.json",
     "author": {
       "name": "Ajit Kumar",
       "email": "me@ajitkumar.dev",
