@@ -32,7 +32,6 @@
       "github": "deadlyjack"
     }
   },
-  //https://raw.githubusercontent.com/deadlyjack/acode-plugin-volumn_cursor/main/dist/main.js
   {
     "id": "acode.plugin.lint",
     "name": "Lint (Check errors)",
