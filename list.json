@@ -53,5 +53,16 @@
       "email": "me@ajitkumar.dev",
       "github": "deadlyjack"
     }
+  },
+  {
+    "id": "acode.plugin.sass",
+    "name": "Live SASS",
+    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-sass/main/icon.png",
+    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-sass/main/plugin.json",
+    "author": {
+      "name": "Ajit Kumar",
+      "email": "me@ajitkumar.dev",
+      "github": "deadlyjack"
+    }
   }
 ]
