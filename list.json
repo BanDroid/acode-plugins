@@ -34,7 +34,7 @@
   },
   {
     "id": "acode.plugin.lint",
-    "name": "Lint (Check errors)",
+    "name": "Lint",
     "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lint/main/icon.png",
     "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lint/main/plugin.json",
     "author": {
