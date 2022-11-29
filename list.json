@@ -64,5 +64,16 @@
       "email": "me@ajitkumar.dev",
       "github": "deadlyjack"
     }
+  },
+  {
+    "id": "acode.plugin.loremipsum",
+    "name": "Lorem Ipsum",
+    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lorem/main/icon.png",
+    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lorem/main/plugin.json",
+    "author": {
+      "name": "Foxdebug",
+      "email": "contact@foxdebug.com",
+      "github": "foxdebug"
+    }
   }
 ]
