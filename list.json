@@ -75,5 +75,16 @@
       "email": "contact@foxdebug.com",
       "github": "foxdebug"
     }
+  },
+  {
+    "id": "acode.plugin.gradient",
+    "name": "Gradient Generator",
+    "icon": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/icon.png",
+    "plugin": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/plugin.json",
+    "author": {
+      "name": "Raunak Raj",
+      "email": "bajrangcoders@gmail.com",
+      "github": "bajrangCoder"
+    }
   }
 ]
