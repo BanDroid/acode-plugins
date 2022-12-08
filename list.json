@@ -2,8 +2,8 @@
   {
     "id": "acode.plugin.python",
     "name": "Python",
-    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-python/main/icon.png",
-    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-python/main/plugin.json",
+    "icon": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-python@latest/icon.png",
+    "plugin": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-python@latest/plugin.json",
     "author": {
       "name": "Ajit Kumar",
       "email": "me@ajitkumar.dev",
@@ -13,8 +13,8 @@
   {
     "id": "acode.plugin.prettier",
     "name": "Prettier",
-    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-prettier/main/icon.png",
-    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-prettier/main/plugin.json",
+    "icon": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-prettier@latest/icon.png",
+    "plugin": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-prettier@latest/plugin.json",
     "author": {
       "name": "Ajit Kumar",
       "email": "me@ajitkumar.dev",
@@ -24,8 +24,8 @@
   {
     "id": "acode.plugin.snippets",
     "name": "Snippets",
-    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-snippets/main/icon.png",
-    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-snippets/main/plugin.json",
+    "icon": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-snippets@latest/icon.png",
+    "plugin": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-snippets@latest/plugin.json",
     "author": {
       "name": "Ajit Kumar",
       "email": "me@ajitkumar.dev",
@@ -35,8 +35,8 @@
   {
     "id": "acode.plugin.lint",
     "name": "Lint",
-    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lint/main/icon.png",
-    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lint/main/plugin.json",
+    "icon": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-lint@latest/icon.png",
+    "plugin": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-lint@latest/plugin.json",
     "author": {
       "name": "Ajit Kumar",
       "email": "me@ajitkumar.dev",
@@ -46,8 +46,8 @@
   {
     "id": "acode.plugin.volumncursor",
     "name": "Volumn cursor",
-    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-volumn_cursor/main/icon.png",
-    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-volumn_cursor/main/plugin.json",
+    "icon": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-volumn_cursor@latest/icon.png",
+    "plugin": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-volumn_cursor@latest/plugin.json",
     "author": {
       "name": "Ajit Kumar",
       "email": "me@ajitkumar.dev",
@@ -57,8 +57,8 @@
   {
     "id": "acode.plugin.sass",
     "name": "Live SASS",
-    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-sass/main/icon.png",
-    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-sass/main/plugin.json",
+    "icon": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-sass@latest/icon.png",
+    "plugin": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-sass@latest/plugin.json",
     "author": {
       "name": "Ajit Kumar",
       "email": "me@ajitkumar.dev",
@@ -68,8 +68,8 @@
   {
     "id": "acode.plugin.loremipsum",
     "name": "Lorem Ipsum",
-    "icon": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lorem/main/icon.png",
-    "plugin": "https://raw.githubusercontent.com/deadlyjack/acode-plugin-lorem/main/plugin.json",
+    "icon": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-lorem@latest/icon.png",
+    "plugin": "https://cdn.jsdelivr.net/gh/deadlyjack/acode-plugin-lorem@latest/plugin.json",
     "author": {
       "name": "Foxdebug",
       "email": "contact@foxdebug.com",
@@ -79,8 +79,8 @@
   {
     "id": "acode.plugin.gradient",
     "name": "Gradient Generator",
-    "icon": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/icon.png",
-    "plugin": "https://raw.githubusercontent.com/bajrangCoder/acode-plugin-gradient/main/plugin.json",
+    "icon": "https://cdn.jsdelivr.net/gh/bajrangCoder/acode-plugin-gradient@latest/icon.png",
+    "plugin": "https://cdn.jsdelivr.net/gh/bajrangCoder/acode-plugin-gradient@latest/plugin.json",
     "author": {
       "name": "Raunak Raj",
       "email": "bajrangcoders@gmail.com",
