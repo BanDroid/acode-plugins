@@ -86,5 +86,17 @@
       "email": "bajrangcoders@gmail.com",
       "github": "bajrangCoder"
     }
+  },
+{
+    "id": "acode.plugin.restapi",
+    "name": "api tester",
+    "icon": "https://cdn.jsdelivr.net/gh/mayank0274/api-tester@main/icon.png",
+    "plugin": "https://cdn.jsdelivr.net/gh/mayank0274/api-tester@main/plugin.json",
+"author": {
+    "name": "Mayank sharma",
+    "email": "sharma.mayank0274@gmail.com",
+    "github": "mayank0274"
   }
+}
+  
 ]
