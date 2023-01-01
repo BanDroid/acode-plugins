@@ -97,6 +97,17 @@
     "email": "sharma.mayank0274@gmail.com",
     "github": "mayank0274"
   }
-}
+},
+  {
+    "id": "acode.plugin.online.compiler",
+    "name": "Basic Online Compiler",
+    "icon": "https://cdn.jsdelivr.net/gh/BanDroid/acode-online-compiler@latest/icon.png",
+    "plugin": "https://cdn.jsdelivr.net/gh/BanDroid/acode-online-compiler@latest/plugin.json",
+    "author": {
+      "name": "Fitrah Nuno Syahbani (BanDroid)",
+		  "email": "dbbhuh5@gmail.com",
+		  "github": "BanDroid"
+    }
+  }
   
 ]
